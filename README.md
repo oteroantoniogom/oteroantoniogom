@@ -1,7 +1,6 @@
 [ES] 👋 ¡Bienvenido/a a mi perfil de GitHub! Soy Antonio Gómez [byteburger.dev]
 
-# INGENIERÍA INFORMÁTICA y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS
-<a href='https://www.uc3m.es/doble-grado/informatica-ade' target="_blank"><img alt='UC3M' src='https://img.shields.io/badge/UC3M-100000?style=for-the-badge&logo=UC3M&logoColor=FFFEFE&labelColor=010679&color=010679'/></a>
+# INGENIERÍA INFORMÁTICA y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS <a href='https://www.uc3m.es/doble-grado/informatica-ade' target="_blank"><img alt='UC3M' src='https://img.shields.io/badge/UC3M-100000?style=for-the-badge&logo=UC3M&logoColor=FFFEFE&labelColor=010679&color=010679'/></a>
 
 📊 Ciencia de datos | Aprendizaje Automático
 
@@ -31,8 +30,7 @@
 
 [EN] 👋 Welcome to my Github profile! I'm Antonio Gómez [byteburger.dev]
 
-# COMPUTER SCIENCE ENGINEERING and BUSINESS ADMINISTRATION AND MANAGEMENT
-<a href='https://www.uc3m.es/doble-grado/informatica-ade' target="_blank"><img alt='UC3M' src='https://img.shields.io/badge/UC3M-100000?style=for-the-badge&logo=UC3M&logoColor=FFFEFE&labelColor=010679&color=010679'/></a>
+# COMPUTER SCIENCE ENGINEERING and BUSINESS ADMINISTRATION AND MANAGEMENT <a href='https://www.uc3m.es/doble-grado/informatica-ade' target="_blank"><img alt='UC3M' src='https://img.shields.io/badge/UC3M-100000?style=for-the-badge&logo=UC3M&logoColor=FFFEFE&labelColor=010679&color=010679'/></a>
 
 📊 Data Science | Machine Learning
 
