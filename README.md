@@ -1,10 +1,11 @@
 [ES] 👋 ¡Bienvenido/a a mi perfil de GitHub! Soy Antonio Gómez [byteburger.dev]
 
-## INGENIERÍA INFORMÁTICA y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS <a href='https://www.uc3m.es/doble-grado/informatica-ade' target="_blank"><img alt='UC3M' src='https://img.shields.io/badge/UC3M-100000?style=for-the-badge&logo=UC3M&logoColor=FFFEFE&labelColor=010679&color=010679'/></a>
+# INGENIERÍA INFORMÁTICA y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS
+<a href='https://www.uc3m.es/doble-grado/informatica-ade' target="_blank"><img alt='UC3M' src='https://img.shields.io/badge/UC3M-100000?style=for-the-badge&logo=UC3M&logoColor=FFFEFE&labelColor=010679&color=010679'/></a>
 
-📊 Ciencia de datos | Aprendizaje Automático  
+📊 Ciencia de datos | Aprendizaje Automático
 
-🤖 Inteligencia Artificial  
+🤖 Inteligencia Artificial
 
 💼 ADE
 
@@ -17,17 +18,20 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-  
-## ENCUÉNTRAME EN
-<a href='https://www.linkedin.com/' target='_blank'><img alt='LinkedIn' src='https://www.linkedin.com/in/oteroantoniogomez/'/></a>
-<a href='https://play.google.com/store' target='_blank'><img alt='Play Store' src='https://play.google.com/store/apps/details?id=com.antoniogomez.thelordofthree&hl=es_419&gl=US'/></a>
-<a href='https://twitter.com/' target='_blank'><img alt='Twitter' src='https://twitter.com/oteroantoniogom'/></a>
 
----
----
+## ENCUÉNTRAME EN
+<a href='https://www.linkedin.com/in/oteroantoniogomez/' target='_blank'><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://play.google.com/store/apps/developer?id=Antonio+G%C3%B3mez&hl=es_419&gl=US' target='_blank'><img alt='Play Store' src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white'/></a>
+<a href='https://twitter.com/oteroantoniogom' target='_blank'><img alt='Twitter' src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'/></a>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [EN] 👋 Welcome to my Github profile! I'm Antonio Gómez [byteburger.dev]
 
-## COMPUTER SCIENCE ENGINEERING and BUSINESS ADMINISTRATION AND MANAGEMENT
+# COMPUTER SCIENCE ENGINEERING and BUSINESS ADMINISTRATION AND MANAGEMENT
 <a href='https://www.uc3m.es/doble-grado/informatica-ade' target="_blank"><img alt='UC3M' src='https://img.shields.io/badge/UC3M-100000?style=for-the-badge&logo=UC3M&logoColor=FFFEFE&labelColor=010679&color=010679'/></a>
 
 📊 Data Science | Machine Learning
@@ -47,6 +51,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## FIND ME
-<a href='https://www.linkedin.com/' target='_blank'><img alt='LinkedIn' src='https://www.linkedin.com/in/oteroantoniogomez/'/></a>
-<a href='https://play.google.com/store' target='_blank'><img alt='Play Store' src='https://play.google.com/store/apps/details?id=com.antoniogomez.thelordofthree&hl=es_419&gl=US'/></a>
-<a href='https://twitter.com/' target='_blank'><img alt='Twitter' src='https://twitter.com/oteroantoniogom'/></a>
+<a href='https://www.linkedin.com/in/oteroantoniogomez/' target='_blank'><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href='https://play.google.com/store/apps/developer?id=Antonio+G%C3%B3mez&hl=es_419&gl=US' target='_blank'><img alt='Play Store' src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white'/></a>
+<a href='https://twitter.com/oteroantoniogom' target='_blank'><img alt='Twitter' src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'/></a>
