@@ -9,8 +9,7 @@
 💼 ADE
 
 ## TECNOLOGÍAS
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white'/></a>
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ## ENCUÉNTRAME EN
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
